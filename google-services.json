@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15322863920",
+    "project_id": "test-auth-f7b7c",
+    "storage_bucket": "test-auth-f7b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15322863920:android:1095c13975e1705a8b10f5",
+        "android_client_info": {
+          "package_name": "com.ardaatik.ChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15322863920-4b1bumc269b4acprt6upqplg2ehp766d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQRNI1pD3I0azNKiEhyGCZQCEdHfHBg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15322863920-4b1bumc269b4acprt6upqplg2ehp766d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
