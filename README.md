@@ -8,7 +8,7 @@ Ecommerce mobile app made with react native
 
 ---
 
-- Follow this [link](https://github.com/ArdaAtik/React-Native-Ecommerce/archive/refs/heads/main.zip) to download a .zip
+- Follow this [link](https://github.com/ArdaAtik/React-Native-Ecommerce/archive/refs/heads/master.zip) to download a .zip
   file of this repository. Once it downloads, unzip and open it.
 
 - You will need to open a command line in the folder, then run the following command to install dependencies:
